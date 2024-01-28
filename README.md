@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Bachelor of Science Degree at WGU
+- 🌱 I’m currently learning CSS, HTML, JavaScript
+- 📫 How to reach me: twall1144@wgu.edu
+- 😄 Pronouns: She/Her
+- ⚡ Location: Atlanta, GA
